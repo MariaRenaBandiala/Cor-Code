@@ -44,3 +44,78 @@ body{
     font-family: Arial, sans-serif;
     background-color: #393838;
 }
+
+li {
+    margin-left: 3px;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+li span {
+    margin-left: 10px; 
+}
+.college-inline {
+    display: inline;
+    margin-left: 100px; 
+}
+.college-inline span{
+    font-weight: 100;
+}
+
+.college-inline2 {
+    display: inline;
+    margin-left: 56px; 
+}
+.college-inline2 span{
+    font-weight: 100;
+    margin-left: 5px;
+}
+#sq-table{
+    width: 390px;
+}
+#sq-table th{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    background-color: #afb3d6;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+.reg-no{
+margin-right: 6.5in;
+margin-top: -10px;
+ 
+}
+.reg-no span{
+    color: rgb(160, 6, 6);
+}
+
+#table-area {
+    margin-top: -10px;
+}
+table, td, th {
+    border: 1px solid;
+  }
+  
+  table {
+    margin-top: 0%;
+    width: 92%;
+    border-collapse: collapse;
+  }
+  #table-area th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #afb3d6;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+  }
+  #table-area ul {
+    list-style-type: none; 
+    padding: 0;
+    text-align: left;
+    margin-top: 2px;
+}
